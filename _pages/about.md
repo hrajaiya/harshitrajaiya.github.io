@@ -1,5 +1,4 @@
 ---
-#About Page
 
 About Me
 ======
