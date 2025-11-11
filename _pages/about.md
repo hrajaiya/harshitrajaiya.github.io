@@ -22,3 +22,7 @@ University of Ottawa
 55 Laurier Ave. E, Ottawa, ON K1N 6N5  
 
 Email: [Harshit.Rajaiya@telfer.uOttawa.ca](mailto:Harshit.Rajaiya@telfer.uOttawa.ca)
+
+.page__content {
+  text-align: left !important;
+}
