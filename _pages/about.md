@@ -1,25 +1,32 @@
 ---
+layout: single
 permalink: /
-title: "About Me"
+title: "Harshit Rajaiya"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I joined the University of Ottawa in July 2020 as an Assistant Professor of Finance. Prior to starting my current job, I graduated from Boston College with a PhD in Finance. 
+# About Me
 
-My research interests are in empirical corporate finance and entrepreneurial finance. My current research focuses on Financial Policies, Innovation, Trademarks, Initial Public Offerings (IPOs), Seasoned Equity Offerings (SEOs), Venture Capitalists and Angels,  and FinTech.
+I am an Assistant Professor of Finance at the **Telfer School of Management, University of Ottawa**. 
+I joined Telfer in July 2020 after completing my PhD in Finance at **Boston College**.
 
-Contact Info
-======
-DMS 7163 
+My research interests are in **empirical corporate finance** and **entrepreneurial finance**. 
+Current projects examine:
 
-Telfer School of Management
+- Financial policies and payout decisions
+- Innovation and trademarks
+- Initial and seasoned equity offerings (IPOs and SEOs)
+- Venture capitalists, angel investors, and founder characteristics
+- FinTech and the interaction between technology and capital markets
 
-University of Ottawa
+## Contact
 
-55 Laurier Ave. E, Ottawa, ON K1N 6N5 
+DMS 7163  
+Telfer School of Management  
+University of Ottawa  
+55 Laurier Ave. E, Ottawa, ON K1N 6N5  
 
-Email: Harshit.Rajaiya@telfer.uOttawa.ca 
-
+Email: [Harshit.Rajaiya@telfer.uOttawa.ca](mailto:Harshit.Rajaiya@telfer.uOttawa.ca)
