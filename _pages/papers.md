@@ -21,7 +21,7 @@ _single-authored_
 
 **Trademarks and Entrepreneurial Firm Success: Theory and Evidence from Private Firm Exits and Initial Public Offerings**  
 _with Onur Bayar, Thomas J. Chemmanur, Xuan Tian, and Qianqian Yu_  
-*Entrepreneurship Theory and Practice*
+*Entrepreneurship Theory and Practice 49 (3), 846-882, (2025)*
 
 ---
 
