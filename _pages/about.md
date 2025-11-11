@@ -10,7 +10,7 @@ redirect_from:
 I joined the University of Ottawa in July 2020 as an Assistant Professor of Finance. Prior to starting my current job, I graduated from Boston College with a PhD in Finance (May 2020). 
 My research interests are in empirical corporate finance and entrepreneurial finance. My current research focuses on Financial Policies, Innovation, Trademarks, Initial Public Offerings (IPOs), Seasoned Equity Offerings (SEOs), Venture Capitalists and Angels,  and FinTech.
 
-A data-driven personal website
+Contact Info
 ======
 DMS 7163 
 Telfer School of Management
@@ -18,7 +18,3 @@ University of Ottawa
 55 Laurier Ave. E, Ottawa, ON K1N 6N5 
 Email: Harshit.Rajaiya@telfer.uOttawa.ca 
 
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
