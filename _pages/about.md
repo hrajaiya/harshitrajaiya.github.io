@@ -8,19 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+# Bio
 
-I am an Assistant Professor of Finance at the **Telfer School of Management, University of Ottawa**. 
-I joined Telfer in July 2020 after completing my PhD in Finance at **Boston College**.
 
-My research interests are in **empirical corporate finance** and **entrepreneurial finance**. 
-Current projects examine:
+Harshit Rajaiya is an Assistant Professor of Finance at the Telfer School of Management, University of Ottawa. His research primarily focuses on entrepreneurial finance, innovation, corporate financial policies, and fintech. His research has been published in journals such as Journal of Financial and Quantitaive Analysis, Journal of Corporate Finance, and Entrepreneurship Theory and Practice and has been presented at many several leading finance conferences. He holds a PhD in Finance from the Carroll School of Management at the Boston College. 
 
-- Financial policies and payout decisions
-- Innovation and trademarks
-- Initial and seasoned equity offerings (IPOs and SEOs)
-- Venture capitalists, angel investors, and founder characteristics
-- FinTech and the interaction between technology and capital markets
 
 ## Contact
 
