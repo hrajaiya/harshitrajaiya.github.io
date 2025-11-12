@@ -41,7 +41,7 @@ _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_
 **How Do Online Employee Ratings Affect External Firm Financing? Evidence from Glassdoor**  
 _with Thomas J. Chemmanur and Jinfei Sheng_  
 Conferences: Boca Corporate Finance and Governance 2020; European Finance Association 2020; Midwest Finance Association 2022; FMA 2019; Eastern Finance Association 2021  
-Media: *Columbia Law School Blue Sky Blog*<br>
+Media: [*Columbia Law School Blue Sky Blog*](https://clsbluesky.law.columbia.edu/2020/01/24/how-does-soft-information-affect-external-firm-financing/)<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3507695)
 
 ---
@@ -50,7 +50,7 @@ Media: *Columbia Law School Blue Sky Blog*<br>
 _with Thomas J. Chemmanur and Jiajie Xu_  
 Semi-Finalist, FMA Best Paper Award (Financial Markets), 2021  
 Conferences: Northern Finance Association 2021; FMA 2021; EFMA 2022; CIRF 2022; IFC 2022; Digital, Innovation, Financing and Entrepreneurship 2023  
-Media: *Columbia Law School Blue Sky Blog*<br>
+Media: [*Columbia Law School Blue Sky Blog*](https://clsbluesky.law.columbia.edu/2021/10/22/comparing-angels-and-venture-capitalists-as-investors-in-entrepreneurial-firms/)<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946772)
 
 ---
