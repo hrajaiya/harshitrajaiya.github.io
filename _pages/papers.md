@@ -42,6 +42,7 @@ _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_
 _with Thomas J. Chemmanur and Jinfei Sheng_  
 Conferences: Boca Corporate Finance and Governance 2020; European Finance Association 2020; Midwest Finance Association 2022; FMA 2019; Eastern Finance Association 2021  
 Media: *Columbia Law School Blue Sky Blog*
+[📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3507695)
 
 ---
 
@@ -50,6 +51,7 @@ _with Thomas J. Chemmanur and Jiajie Xu_
 Semi-Finalist, FMA Best Paper Award (Financial Markets), 2021  
 Conferences: Northern Finance Association 2021; FMA 2021; EFMA 2022; CIRF 2022; IFC 2022; Digital, Innovation, Financing and Entrepreneurship 2023  
 Media: *Columbia Law School Blue Sky Blog*
+[📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946772)
 
 ---
 
@@ -57,12 +59,14 @@ Media: *Columbia Law School Blue Sky Blog*
 _with Thomas J. Chemmanur, Karthik Krishnan, and Pinshuo Wang_  
 Conferences: Northern Finance Association 2023; MFA 2024; FIRS 2024  
 Media: *Columbia Law School Blue Sky Blog*
+[📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3240607)
 
 ---
 
 **How Does Innovation Success Affect Corporate Payout Policies**  
 _single-authored_  
 Conferences: FMA 2022; DIFE 2023; Birkbeck, University of London; University of Ottawa
+[📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283166)
 
 ---
 
