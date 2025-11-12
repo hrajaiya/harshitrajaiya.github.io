@@ -10,25 +10,28 @@ author_profile: true
 **Recent Developments in the FinTech Industry**  
 _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_  
 *Journal of Financial Management, Markets and Institutions*, Vol. 8, No. 1 (2020)
+[📄 View Paper](https://www.worldscientific.com/doi/abs/10.1142/S2282717X20400022)
 
 ---
 
 **Innovation Success and Capital Structure**  
 _single-authored_  
 *Journal of Corporate Finance* 79.C (2023)
-[📄 View Paper (Elsevier)](https://www.sciencedirect.com/science/article/pii/S0929119922001882)
+[📄 View Paper](https://www.sciencedirect.com/science/article/pii/S0929119922001882)
 
 ---
 
 **Trademarks and Entrepreneurial Firm Success: Theory and Evidence from Private Firm Exits and Initial Public Offerings**  
 _with Onur Bayar, Thomas J. Chemmanur, Xuan Tian, and Qianqian Yu_  
 *Entrepreneurship Theory and Practice 49 (3), 846-882, (2025)*
+[📄 View Paper](https://journals.sagepub.com/doi/abs/10.1177/10422587241300438)
 
 ---
 
 **The Entrepreneurial Finance of Fintech Firms and the Effect of Investments in Fintech Startups on the Performance of Corporate Investors**  
 _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_  
 *Journal of Financial and Quantitative Analysis* (forthcoming)
+[📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433357)
 
 ---
 
