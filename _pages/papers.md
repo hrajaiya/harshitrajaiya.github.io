@@ -24,14 +24,14 @@ _single-authored_
 
 **Trademarks and Entrepreneurial Firm Success: Theory and Evidence from Private Firm Exits and Initial Public Offerings**  
 _with Onur Bayar, Thomas J. Chemmanur, Xuan Tian, and Qianqian Yu_  
-*Entrepreneurship Theory and Practice 49 (3), 846-882, (2025)*
+*Entrepreneurship Theory and Practice 49 (3), 846-882, (2025)*<br>
 [📄 View Paper](https://journals.sagepub.com/doi/abs/10.1177/10422587241300438)
 
 ---
 
 **The Entrepreneurial Finance of Fintech Firms and the Effect of Investments in Fintech Startups on the Performance of Corporate Investors**  
 _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_  
-*Journal of Financial and Quantitative Analysis* (forthcoming)
+*Journal of Financial and Quantitative Analysis* (forthcoming)<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433357)
 
 ---
@@ -41,7 +41,7 @@ _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_
 **How Do Online Employee Ratings Affect External Firm Financing? Evidence from Glassdoor**  
 _with Thomas J. Chemmanur and Jinfei Sheng_  
 Conferences: Boca Corporate Finance and Governance 2020; European Finance Association 2020; Midwest Finance Association 2022; FMA 2019; Eastern Finance Association 2021  
-Media: *Columbia Law School Blue Sky Blog*
+Media: *Columbia Law School Blue Sky Blog*<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3507695)
 
 ---
@@ -50,7 +50,7 @@ Media: *Columbia Law School Blue Sky Blog*
 _with Thomas J. Chemmanur and Jiajie Xu_  
 Semi-Finalist, FMA Best Paper Award (Financial Markets), 2021  
 Conferences: Northern Finance Association 2021; FMA 2021; EFMA 2022; CIRF 2022; IFC 2022; Digital, Innovation, Financing and Entrepreneurship 2023  
-Media: *Columbia Law School Blue Sky Blog*
+Media: *Columbia Law School Blue Sky Blog*<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946772)
 
 ---
@@ -58,14 +58,14 @@ Media: *Columbia Law School Blue Sky Blog*
 **The Effect of Student Loans on Entrepreneurial Firm Risk-taking, Performance, and Access to Venture Capital**  
 _with Thomas J. Chemmanur, Karthik Krishnan, and Pinshuo Wang_  
 Conferences: Northern Finance Association 2023; MFA 2024; FIRS 2024  
-Media: *Columbia Law School Blue Sky Blog*
+Media: *Columbia Law School Blue Sky Blog*<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3240607)
 
 ---
 
 **How Does Innovation Success Affect Corporate Payout Policies**  
 _single-authored_  
-Conferences: FMA 2022; DIFE 2023; Birkbeck, University of London; University of Ottawa
+Conferences: FMA 2022; DIFE 2023; Birkbeck, University of London; University of Ottawa<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283166)
 
 ---
