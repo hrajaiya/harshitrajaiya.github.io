@@ -11,6 +11,7 @@ author_profile: true
 **Recent Developments in the FinTech Industry**  
 _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_  
 *Journal of Financial Management, Markets and Institutions*, Vol. 8, No. 1 (2020)
+
 [📄 View Paper](https://www.worldscientific.com/doi/abs/10.1142/S2282717X20400022)
 
 ---
@@ -18,6 +19,7 @@ _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_
 **Innovation Success and Capital Structure**  
 _single-authored_  
 *Journal of Corporate Finance* 79.C (2023)
+
 [📄 View Paper](https://www.sciencedirect.com/science/article/pii/S0929119922001882)
 
 ---
