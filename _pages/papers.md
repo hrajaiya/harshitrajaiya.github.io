@@ -16,6 +16,7 @@ _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_
 **Innovation Success and Capital Structure**  
 _single-authored_  
 *Journal of Corporate Finance* 79.C (2023)
+[📄 View Paper (Elsevier)](https://www.sciencedirect.com/science/article/pii/S0929119922001882)
 
 ---
 
