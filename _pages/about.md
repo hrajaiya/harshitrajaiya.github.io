@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align:left">
 
 # Bio
 
@@ -23,4 +22,4 @@ University of Ottawa
 
 Email: [Harshit.Rajaiya@telfer.uOttawa.ca](mailto:Harshit.Rajaiya@telfer.uOttawa.ca)
 
-</div>
+
