@@ -3,6 +3,7 @@ layout: single
 title: "Papers"
 permalink: /papers/
 author_profile: true
+
 ---
 
 # Published Papers
