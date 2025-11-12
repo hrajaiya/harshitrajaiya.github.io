@@ -58,7 +58,7 @@ Media: *Columbia Law School Blue Sky Blog*<br>
 **The Effect of Student Loans on Entrepreneurial Firm Risk-taking, Performance, and Access to Venture Capital**  
 _with Thomas J. Chemmanur, Karthik Krishnan, and Pinshuo Wang_  
 Conferences: Northern Finance Association 2023; MFA 2024; FIRS 2024  
-Media: *Columbia Law School Blue Sky Blog*<br>
+Media: [*Columbia Law School Blue Sky Blog*](https://clsbluesky.law.columbia.edu/2022/11/23/does-student-loan-forgiveness-have-significant-benefits-for-the-economy/)<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3240607)
 
 ---
