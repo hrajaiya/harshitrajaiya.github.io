@@ -31,8 +31,8 @@ _with Onur Bayar, Thomas J. Chemmanur, Xuan Tian, and Qianqian Yu_
 
 **The Entrepreneurial Finance of Fintech Firms and the Effect of Investments in Fintech Startups on the Performance of Corporate Investors**  
 _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_  
-*Journal of Financial and Quantitative Analysis* (forthcoming)<br>
-[📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433357)
+*Journal of Financial and Quantitative Analysis*<br>
+[📄 View Paper](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/entrepreneurial-finance-of-fintech-firms-and-the-effect-of-investments-in-fintech-startups-on-the-performance-of-corporate-investors/7FF394A969D7CBCEC157715693B7E5B3)
 
 ---
 
