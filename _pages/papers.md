@@ -57,7 +57,7 @@ Media: [*Columbia Law School Blue Sky Blog*](https://clsbluesky.law.columbia.edu
 
 **The Effect of Student Loans on Entrepreneurial Firm Risk-taking, Performance, and Access to Venture Capital**  
 _with Thomas J. Chemmanur, Karthik Krishnan, and Pinshuo Wang_  
-Conferences: Northern Finance Association 2023; MFA 2024; FIRS 2024  
+Conferences: Northern Finance Association 2023; MFA 2024; FIRS 2024, ISB CAF 2025  
 Media: [*Columbia Law School Blue Sky Blog*](https://clsbluesky.law.columbia.edu/2022/11/23/does-student-loan-forgiveness-have-significant-benefits-for-the-economy/)<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3240607)
 
@@ -73,3 +73,8 @@ Conferences: FMA 2022; DIFE 2023; Birkbeck, University of London; University of 
 **How Do the Trademarks Held by Private Firms Going Public Affect the Success of Their Initial Public Offerings?**  
 _with Onur Bayar, Thomas J. Chemmanur, Xuan Tian, and Qianqian Yu_  
 Conferences: FMA 2025
+
+---
+
+**Cash Dividends versus Stock Repurchases: An Empirical Analysis of Payout Mechanism Choice under Heterogeneous Beliefs and a Partial Resolution of the Disappearing Dividend Puzzle**  
+_with with Thomas J. Chemmanur, Debarshi Nandi, and Yuxin Wu_  
