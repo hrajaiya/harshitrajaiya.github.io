@@ -77,4 +77,4 @@ Conferences: FMA 2025
 ---
 
 **Cash Dividends versus Stock Repurchases: An Empirical Analysis of Payout Mechanism Choice under Heterogeneous Beliefs and a Partial Resolution of the Disappearing Dividend Puzzle**  
-_with with Thomas J. Chemmanur, Debarshi Nandi, and Yuxin Wu_  
+_with Thomas J. Chemmanur, Debarshi Nandi, and Yuxin Wu_  
