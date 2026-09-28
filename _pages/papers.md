@@ -76,7 +76,7 @@ Conferences: FMA 2025
 
 ---
 
-**Do Customers, Employees, and Investors in Entrepreneurial Firms Care About ESG? Evidence from Negative ESG Incidents and ESG Ratings,**  
+**Do Customers, Employees, and Investors in Entrepreneurial Firms Care About ESG? Evidence from Negative ESG Incidents and ESG Ratings**  
 _with Thomas J. Chemmanur, Yudong Liu, and Jing Xie_  
 
 ---
