@@ -5,5 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-My full CV will be uploaded here soon.
-
+[**Download my CV (PDF)**](/files/CV_Harshit.pdf)
