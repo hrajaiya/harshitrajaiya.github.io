@@ -78,8 +78,10 @@ Conferences: FMA 2025
 
 **Do Customers, Employees, and Investors in Entrepreneurial Firms Care About ESG? Evidence from Negative ESG Incidents and ESG Ratings**  
 _with Thomas J. Chemmanur, Yudong Liu, and Jing Xie_  
+Conferences: Sustainability, Natural Capital and Value Creation Conference (scheduled), Boca Finance and Real Estate Conference (scheduled)
 
 ---
 
 **Cash Dividends versus Stock Repurchases: An Empirical Analysis of Payout Mechanism Choice under Heterogeneous Beliefs and a Partial Resolution of the Disappearing Dividend Puzzle**  
 _with Thomas J. Chemmanur, Debarshi Nandi, and Yuxin Wu_  
+
